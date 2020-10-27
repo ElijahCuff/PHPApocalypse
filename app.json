@@ -1,6 +1,6 @@
 {
   "name": "PHP Apocalypse",
   "description": "PHP apocalypse project",
-  "repository": "https://github.com/WokeWorld/PHPApocalypse/",
+  "repository": "https://github.com/WokeWorld/PHPApocalypse",
   "keywords": ["php script", "php proxy", "proxy"]
 }
