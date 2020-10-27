@@ -10,6 +10,8 @@ PHP Apocalypse© is an advanced load bot that uses zombie proxies to start a use
 Create a FREE account first if you do not yet have one:  
 https://signup.heroku.com/    
    
+#### Example Usage        
+`https://proxyload.herokuapp.com/?url=http://google.com&format=utf-8&rounds=4`       
    
 ## Request Parameters    
 * Cross Origin - for using on a cross origin environment,    
