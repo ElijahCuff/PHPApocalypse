@@ -4,7 +4,11 @@ PHP Apocalypse© is an advanced load bot that uses zombie proxies to start a use
 ## Installation    
 * Add the 2 files ( index & agents ) to your php server like heroku or free hosting provider    
 * Open index.php with specific options
-
+     
+### Heroku Quick Deployment     
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)        
+Create a FREE account first if you do not yet have one:  
+https://signup.heroku.com/    
    
    
 ## Request Parameters    
