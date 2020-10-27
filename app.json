@@ -1,6 +1,6 @@
 {
   "name": "PHP Apocalypse",
   "description": "PHP proxy loader",
-  "repository": "https://github.com/WokeWorld/PHPApocalypse",
+  "repository": "https://github.com/WokeWorld/PHP-Apocalypse",
   "keywords": ["php script", "php proxy", "proxy"]
 }
